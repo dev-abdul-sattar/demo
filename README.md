@@ -5,4 +5,9 @@ This is a demo repository to learn about git &amp; github
 
 #### This is a demo h3 heading
 
-## fixed a bug
+
+
+### Adding a new feature
+
+### Adding a new feature 2
+
