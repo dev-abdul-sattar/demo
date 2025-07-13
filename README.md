@@ -14,3 +14,5 @@ This is a demo repository to learn about git &amp; github
 ## New feature added by abdulsattar 550
 
 ## Latest feature
+
+## Fix issue 9
