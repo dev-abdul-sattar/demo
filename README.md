@@ -7,3 +7,5 @@ This is a demo repository to learn about git &amp; github
 
 
 ### Adding a new feature
+
+### Adding a new feature 2
